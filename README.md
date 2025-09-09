@@ -38,15 +38,6 @@
 
 <br/>
 
-<!-- 📈 Progress Tracker -->
-## 📈 Problem-Solving Stats
-
-![Garjanveersharma's Codeforces Stats](https://cf.leedcode.com/api/v1/user-stats/Garjanveersharma)
-
-*Note: This tracker updates automatically based on my Codeforces activity.*
-
-<br/>
-
 <!-- 🏁 How to Use -->
 ## 🚀 How to Use This Repo
 

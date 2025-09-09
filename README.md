@@ -47,19 +47,6 @@
 
 <br/>
 
-<!-- 🤝 Contribution -->
-## 🤝 Contribution
-
-Want to contribute? Feel free to:
-
-- Add your own optimized solutions  
-- Suggest better approaches  
-- Help organize the repo  
-
-Just fork this repo and raise a PR 😊
-
-<br/>
-
 <!-- 🙌 Support -->
 ## ❤️ Show Some Support
 

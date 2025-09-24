@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std; 
 
 int main(){
@@ -14,13 +14,13 @@ int main(){
     int n = s.size(); 
     set<string> substring; 
     
-    for(int i=0; i<n; i++){
+    for(int i = 0; i < n; i++){
         int badcount = 0; 
         string sub = "";
-        for(int j=i; j<n; j++){
+        for(int j = i; j < n; j++){
             sub += s[j]; 
             
-            if(goodmap[s[j] - 'a'] == 0){
+            if(goodmap[s[j] - 'a'] == '0'){  
                 badcount++; 
             }
             
